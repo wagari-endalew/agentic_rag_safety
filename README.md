@@ -4,7 +4,8 @@ Project Title: Safe Academic Research Assistant
 This project implements an Agentic Retrieval-Augmented Generation (RAG) system that answers academic questions from a trusted PDF knowledge base while enforcing correctness, safety, and reliability using a multi-agent orchestration approach.
 The system reads uploaded academic PDFs and responds only using retrieved document evidence.
 2. System Architecture
-Copy code
+
+
 
 User Query
    │
